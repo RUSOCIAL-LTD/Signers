@@ -12,6 +12,23 @@
 ![Snapchat Device Proof](https://github.com/piombilubicsr/Signers/assets/154801595/7a291593-bae2-4f84-bad6-b5dc6d53d678)
 ![Instagram Mobile Proof](https://github.com/user-attachments/assets/8ffeceb6-aab0-4ffc-85d5-2b12a6aec331)
 
+# [Example Bots]
+
+https://github.com/user-attachments/assets/6c420d3a-dfd0-43ec-88ed-d5d05b3df710
+
+https://github.com/user-attachments/assets/db9e2902-2d69-44b8-aa46-329dcd80383b
+
+https://github.com/user-attachments/assets/bb495016-9534-415b-884a-a0fbdde29fcd
+
+# [Early Access To Snapchat Web Panel] (500$ P/M)
+- Supports Register (Mobile/Web) (Requires 2 Months prepaid or being a 2 month member of panel to use)
+- Live Snap, Live Stories, Friend Scraping, Score Boosting, Get User Location Of User Via AI, Get If User Is Active, Task Scheduling, Email Managing, Account Status, Name Managing, Proxy Groups, Get If User Male/Female Via AI, Live Analytics, Media Manager, Messaging, Task Grouping, Custom Delays AND MUCH MUCH MORE
+
+# [Snapchat mitmproxy Addon to decrypt grpc/protobuf requests updated 8/2/24]
+- 500$ (per build)
+
+# [Snapchat V13.0.0.50 Lib Source]
+- 7000$ (Updated SnapProto, SnapchatLib)
 
 # [Captcha Solvers]
 - Hcaptcha (Publisher,Pro,Enterprise)
@@ -21,28 +38,14 @@
 - Hotmail
 - & MORE
 
-# [Example Bots]
-
-https://github.com/user-attachments/assets/6c420d3a-dfd0-43ec-88ed-d5d05b3df710
-
-https://github.com/user-attachments/assets/db9e2902-2d69-44b8-aa46-329dcd80383b
-
-https://github.com/user-attachments/assets/bb495016-9534-415b-884a-a0fbdde29fcd
+# [Completed Custom Reverses For Sale]
+- WalaOne (https://play.google.com/store/apps/details?id=com.walaplus.walaplusone)
 
 # [Custom Reverse Services]
 - Websites
 - Android Apps
 - Javascript Deobfuscation / Auth Removal
 - NET Deobfuscation / Auth Removal
-
-# [Snapchat mitmproxy Addon to decrypt grpc/protobuf requests updated 8/2/24]
-- 500$ (per build)
-
-# [Snapchat V13.0.0.50 Lib Source]
-- 7000$ (Updated SnapProto, SnapchatLib)
-
-# [Completed Custom Reverses For Sale]
-- WalaOne (https://play.google.com/store/apps/details?id=com.walaplus.walaplusone)
 
 # [TOS]
 - Do not time waste
