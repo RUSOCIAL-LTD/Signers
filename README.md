@@ -58,3 +58,4 @@ https://github.com/user-attachments/assets/bb495016-9534-415b-884a-a0fbdde29fcd
 - Yes Register is working on all signers and does not ban if your flow is proper
 - We Speak Russian/English
 - We Only Accept Crypto Payments at this time
+- We can refuse you service at any time and ban you if you break it
