@@ -27,9 +27,6 @@ https://github.com/user-attachments/assets/bb495016-9534-415b-884a-a0fbdde29fcd
 # [Snapchat mitmproxy Addon to decrypt grpc/protobuf requests updated 8/2/24]
 - 500$ (per build)
 
-# [Snapchat V13.0.0.50 Lib Source]
-- 7000$ (Updated SnapProto, SnapchatLib)
-
 # [Captcha Solvers]
 - Hcaptcha (Publisher,Pro,Enterprise)
 - Recaptcha (v2,v3,Enterprise)
@@ -56,6 +53,7 @@ https://github.com/user-attachments/assets/bb495016-9534-415b-884a-a0fbdde29fcd
 - Do Not Attempt To RE Our Products
 - Do Not Ask For Source We Only Sell Whats Listed Here
 - Reselling is not allowed unless specified by us
+- Sharing is stricly prohibited if you need more users you may pay extra 
 
 # [FAQ]
 - Yes Register is working on all signers and does not ban if your flow is proper
