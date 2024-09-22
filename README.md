@@ -25,10 +25,10 @@ https://github.com/user-attachments/assets/bb495016-9534-415b-884a-a0fbdde29fcd
 - Live Snap, Live Stories, Friend Scraping, Score Boosting, Get User Location Of User Via AI, Get If User Is Active, Task Scheduling, Email Managing, Account Status, Name Managing, Proxy Groups, Get If User Male/Female Via AI, Live Analytics, Media Manager, Messaging, Task Grouping, Custom Delays AND MUCH MUCH MORE
 
 # [Snapchat mitmproxy Addon to decrypt grpc/protobuf requests updated 8/2/24]
-- 500$ (per build)
+- 1000$ (per build)
 
 # [Captcha Solvers]
-- Hcaptcha (Publisher,Pro,Enterprise)
+- Hcaptcha (Publisher,Pro,Enterprise) (Discord Not Working)
 - Recaptcha (v2,v3,Enterprise)
 - Yandex
 - Steam
