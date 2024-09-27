@@ -28,12 +28,9 @@ https://github.com/user-attachments/assets/bb495016-9534-415b-884a-a0fbdde29fcd
 - 1000$ (per build)
 
 # [Captcha Solvers]
-- Hcaptcha (Publisher,Pro,Enterprise) (Discord Not Working)
-- Recaptcha (v2,v3,Enterprise)
-- Yandex
-- Steam
-- Hotmail
-- & MORE
+- Hcaptcha (Publisher,Pro,Enterprise) (Discord Not Working ATM) (50-75% Success Rate)
+- GeeTestv4 Slide (75-90% Success Rate)
+- Recaptcha (v2,v3,Enterprise) (100% Success Rate)
 
 # [Completed Custom Reverses For Sale]
 - WalaOne (https://play.google.com/store/apps/details?id=com.walaplus.walaplusone)
