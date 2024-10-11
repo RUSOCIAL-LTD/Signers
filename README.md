@@ -20,19 +20,13 @@ https://github.com/user-attachments/assets/db9e2902-2d69-44b8-aa46-329dcd80383b
 
 https://github.com/user-attachments/assets/bb495016-9534-415b-884a-a0fbdde29fcd
 
-# [Early Access To Snapchat Web Panel] (500$ P/M)
-- Supports Register (Mobile/Web (Browser And Web API)) (Requires 2 Months prepaid or being a 2 month member of panel to use)
-- Live Snap, Live Stories, Friend Scraping, Score Boosting, Get User Location Of User Via AI, Get If User Is Active, Task Scheduling, Email Managing, Account Status, Name Managing, Proxy Groups, Get If User Male/Female Via AI, Live Analytics, Media Manager, Messaging, Task Grouping, Custom Delays AND MUCH MUCH MORE
+# [Access To Snapchat Web Panel] (1000$ P/M + Whatever Dedi We Deploy on in are colocation) (4 Slots Left)
+- Supports Register (Mobile/Web (Browser And Web API))
+- Full Bitmoji Creator Customization, Live Snap, Live Stories, Friend Scraping, Score Boosting, Get If User Is Active, Task Scheduling, Scraping (Email/Phone/Keyword), Email Managing, Account Status, Name Managing, Proxy Groups, Live Analytics, Media Manager, Messaging, Send Mention, Task Grouping, Race/Gender/Country Prediction, Account Grouping, Custom Delays, Targeting of tasks down to Race/Gender/Country AND MUCH MUCH MORE
 
 https://github.com/user-attachments/assets/e2a2d49b-22ea-4f13-830f-bc3f4bbe87fa
 
 ![image](https://github.com/user-attachments/assets/82428a26-b818-4c9a-b270-06a975af356d)
-
-
-
-
-# [Snapchat mitmproxy Addon to decrypt grpc/protobuf requests updated 8/2/24]
-- 1000$ (per build)
 
 # [Captcha Solvers]
 - Hcaptcha (Publisher,Pro,Enterprise) (Discord Not Working ATM) (50-75% Success Rate)
