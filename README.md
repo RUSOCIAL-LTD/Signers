@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/db9e2902-2d69-44b8-aa46-329dcd80383b
 
 https://github.com/user-attachments/assets/bb495016-9534-415b-884a-a0fbdde29fcd
 
-# [Access To Snapchat Web Panel] (1000$ P/M + Whatever Dedi We Deploy on in are colocation) (4 Slots Left)
+# [Access To Snapchat Web Panel] (1000$ P/M + Whatever Dedi We Deploy on in are colocation) (3 Slots Left)
 - Supports Register (Mobile/Web (Browser And Web API))
 - Full Bitmoji Creator Customization, Live Snap, Live Stories, Friend Scraping, Score Boosting, Get If User Is Active, Task Scheduling, Scraping (Email/Phone/Keyword), Email Managing, Account Status, Name Managing, Proxy Groups, Live Analytics, Media Manager, Messaging, Send Mention, Task Grouping, Race/Gender/Country Prediction, Account Grouping, Custom Delays, Targeting of tasks down to Race/Gender/Country AND MUCH MUCH MORE
 
