@@ -6,7 +6,7 @@
 # [Social Media Signers] [Native Signers]
 ![Yubo Mobile Proof](https://github.com/user-attachments/assets/765e435c-d1e7-461d-928f-23ceaf80c795)
 ![TikTok Mobile Proof](https://github.com/user-attachments/assets/5e5d7c2d-3c75-4926-b826-1c7516e2e404)
-![TikTok Web Proof](https://github.com/user-attachments/assets/25dca7c7-c8c9-4274-b31b-8d899af2e082)
+![TikTok Web Proof](https://github.com/user-attachments/assets/41255472-525b-4b36-89b9-cf9f0a8b0ace)
 ![Snapchat Proof](https://github.com/piombilubicsr/Signers/assets/154801595/0f092238-0280-4e83-afcd-a4515501403a)
 ![Snapchat Proof 2](https://github.com/piombilubicsr/Signers/assets/154801595/f21952ba-f94b-4b11-8ce5-559e825f0b9e)
 ![Snapchat Device Proof](https://github.com/piombilubicsr/Signers/assets/154801595/7a291593-bae2-4f84-bad6-b5dc6d53d678)
