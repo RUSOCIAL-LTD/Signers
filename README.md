@@ -73,6 +73,7 @@ https://github.com/user-attachments/assets/e2a2d49b-22ea-4f13-830f-bc3f4bbe87fa
 - Sharing is stricly prohibited if you need more users you may pay extra 
 - Abusing Register will result in suspension use the accounts you make till you can CONFIRM there fully locked we have fixed Mobile/Web/Browser as of 11/2/24 theres 0 excuse to make accounts then ditch them after use. USE them till locked
 - Cracking Accounts is STRICTLY forbidden and you will be blacklisted permanently
+- Selling Created Accounts is STRICTLY forbidden you will be blacklisted permanently
 
 # [Blacklisted Buyers]
 - Slavi (Reason: Stealing/Flexing Our Bots As his own work https://i.imgur.com/9qt0ssR.png)
