@@ -4,6 +4,8 @@
 # Our Site: https://rusocial.io/
 # RUSocial In Business Since 2023 (Experience Since 2018 ;))
 
+# BLACK FRIDAY SALE!! WEB 1 Month Panel @ 500$ (700$ W/ Register) (+ DEDI PRICE) // Desktop Bots // 2k$ First Month! Accounts Slots Extra Tasks ETC 50% OFF
+
 # [Social Media Signers] [Native Signers]
 ![TikTok Mobile Proof](https://github.com/user-attachments/assets/5e5d7c2d-3c75-4926-b826-1c7516e2e404)
 ![TikTok Web Proof](https://github.com/user-attachments/assets/60188013-939e-4762-b501-cd130722e488)
@@ -101,3 +103,5 @@ https://github.com/user-attachments/assets/e2a2d49b-22ea-4f13-830f-bc3f4bbe87fa
 
 # [Doubt Our Work?]
 - We offer affordable trials (TikTok/IG/Yubo ONLY!)
+
+# BLACK FRIDAY SALE!! WEB 1 Month Panel @ 500$ (700$ W/ Register) (+ DEDI PRICE) // Desktop Bots // 2k$ First Month! Accounts Slots Extra Tasks ETC 50% OFF
