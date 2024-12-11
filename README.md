@@ -92,12 +92,6 @@ https://github.com/user-attachments/assets/e2a2d49b-22ea-4f13-830f-bc3f4bbe87fa
 - We Only Accept Crypto Payments at this time
 - We can refuse you service at any time and ban you if you break TOS
 - We Do Not Give Non Buyers Free Support
-
-# [Become A Reseller] (You Must Be A Customer Monthly To Do This)
-- Whitelabel You Product (We Control Everything Domain, Servers, Managing Bugs)
-- Sell at our base price which you pay us + You Set Your Profit!
-- Must not sell to Blacklisted Buyers (You will be Blacklisted)
-- You and your clients must adhear to TOS And you must suspend abusers and Blacklist them
-
+- 
 # [Doubt Our Work?]
 - We offer affordable trials (TikTok/IG/Yubo ONLY!)
