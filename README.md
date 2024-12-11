@@ -8,8 +8,7 @@
 ![TikTok Mobile Proof](https://github.com/user-attachments/assets/5e5d7c2d-3c75-4926-b826-1c7516e2e404)
 ![TikTok Web Proof](https://github.com/user-attachments/assets/60188013-939e-4762-b501-cd130722e488)
 ![Yubo Mobile Proof](https://github.com/user-attachments/assets/b87d3739-c8e1-42f5-8a52-f09926eae498)
-![Snapchat Proof](https://github.com/piombilubicsr/Signers/assets/154801595/0f092238-0280-4e83-afcd-a4515501403a)
-![Snapchat Proof 2](https://github.com/piombilubicsr/Signers/assets/154801595/f21952ba-f94b-4b11-8ce5-559e825f0b9e)
+![Snapchat Proof 13 19 0 40](https://github.com/user-attachments/assets/c1a68c1c-ca6f-45bd-802e-cf055436e0a3)
 ![Instagram Mobile Proof](https://github.com/user-attachments/assets/8ffeceb6-aab0-4ffc-85d5-2b12a6aec331)
 
 # [Example Bots]
