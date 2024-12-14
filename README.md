@@ -41,15 +41,9 @@ https://github.com/user-attachments/assets/e2a2d49b-22ea-4f13-830f-bc3f4bbe87fa
 
 
 # [Captcha Solvers]
-- Hcaptcha (Publisher,Pro,Enterprise) (Discord Not Working ATM) (50-75% Success Rate)
-- GeeTestv4 Slide (75-90% Success Rate)
+- Hcaptcha (Publisher,Pro) (80% Success Rate)
 - Recaptcha (v2,v3,Enterprise) (100% Success Rate)
-- Friendly Captcha (100% Success Rate)
 - FunC (Only Purchasable When Buying Snap Products Not As Is) (100% Success Rate)
-
-# [Mobile Anti-Bots]
-- PI (Classic/Standard) (Snapchat/TikTok/Instagram/Yubo)
-- KA (Snapchat/TikTok/Instagram/Yubo)
 
 # [Completed Custom Reverses For Sale]
 - WalaOne (https://play.google.com/store/apps/details?id=com.walaplus.walaplusone)
@@ -92,6 +86,6 @@ https://github.com/user-attachments/assets/e2a2d49b-22ea-4f13-830f-bc3f4bbe87fa
 - We Only Accept Crypto Payments at this time
 - We can refuse you service at any time and ban you if you break TOS
 - We Do Not Give Non Buyers Free Support
-- 
+
 # [Doubt Our Work?]
 - We offer affordable trials (TikTok/IG/Yubo ONLY!)
