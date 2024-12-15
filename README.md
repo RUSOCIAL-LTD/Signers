@@ -57,16 +57,19 @@ https://github.com/user-attachments/assets/e2a2d49b-22ea-4f13-830f-bc3f4bbe87fa
 # [TOS]
 - Do not time waste
 - Do not insult us
-- No illegal content
+- No illegal content it's STRICTLY forbidden and you will be blacklisted permanently
 - Be Patient we are most likely in a different timezone and we have multiple people with work with daily
 - No Refunds
-- Do Not Attempt To RE Our Products
-- Do Not Ask For Source We Only Sell Whats Listed Here
-- Reselling is not allowed unless specified by us
-- Sharing is stricly prohibited if you need more users you may pay extra 
+- Do Not Attempt To RE Our Products it's STRICTLY forbidden and you will be blacklisted permanently
+- You will not recieve any Source Code Don't ask
+- Reselling is STRICTLY forbidden and you will be blacklisted permanently (Send them directly to us and recieve a % or extra days/weeks to your sub)
+- Sharing is STRICTLY forbidden and you will be blacklisted permanently (1 USER PER SUB NO SWAPPING WORKERS/USERS MORE COST EXTRA)
 - Abusing Register will result in suspension use the accounts you make till you can CONFIRM there fully locked we have fixed Mobile/Web/Browser as of 11/2/24 theres 0 excuse to make accounts then ditch them after use. USE them till locked
 - Cracking Accounts is STRICTLY forbidden and you will be blacklisted permanently
 - Selling Created Accounts is STRICTLY forbidden you will be blacklisted permanently
+- You can use VA's TO RUN But cost 1k$ Extra Per Month + Any dedi prices and you must VET THEM YOU ARE RESPONSIBLE FOR LEAKS and you will be blacklisted permanently if they leak or break TOS
+- You must use our Dedicated Servers to run the bot's we provide 1 for free more can purchased for extra $$
+- If you have a DEV EXTERNAL SIGNER USAGE HE CANNOT RUN ONLY TEST
 
 # [Blacklisted Buyers]
 - Slavi (Reason: Stealing/Flexing Our Bots As his own work https://i.imgur.com/9qt0ssR.png)
