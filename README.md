@@ -6,7 +6,7 @@
 
 # [Social Media Signers] [Native Signers]
 ![TikTok Mobile Proof](https://github.com/user-attachments/assets/5e5d7c2d-3c75-4926-b826-1c7516e2e404)
-![TikTok Web Proof](https://github.com/user-attachments/assets/60188013-939e-4762-b501-cd130722e488)
+![TikTok Web Proof](https://github.com/user-attachments/assets/fd60b925-db48-4668-9787-20231c88e2c1)
 ![Yubo Mobile Proof](https://github.com/user-attachments/assets/b87d3739-c8e1-42f5-8a52-f09926eae498)
 ![Snapchat Proof 13 19 0 40](https://github.com/user-attachments/assets/c1a68c1c-ca6f-45bd-802e-cf055436e0a3)
 ![Instagram Mobile Proof](https://github.com/user-attachments/assets/8ffeceb6-aab0-4ffc-85d5-2b12a6aec331)
