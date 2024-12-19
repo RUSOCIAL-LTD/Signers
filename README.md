@@ -9,7 +9,7 @@
 ![TikTok Web Proof](https://github.com/user-attachments/assets/fd60b925-db48-4668-9787-20231c88e2c1)
 ![Yubo Mobile Proof](https://github.com/user-attachments/assets/b87d3739-c8e1-42f5-8a52-f09926eae498)
 ![Snapchat Proof 13 19 0 40](https://github.com/user-attachments/assets/c1a68c1c-ca6f-45bd-802e-cf055436e0a3)
-![Instagram Mobile Proof](https://github.com/user-attachments/assets/8ffeceb6-aab0-4ffc-85d5-2b12a6aec331)
+![Instagram 359 0 0 59 89](https://github.com/user-attachments/assets/65186697-7b72-4fc5-9299-a0470ade277d)
 
 # [Example Bots]
 
